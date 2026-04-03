@@ -1,4 +1,4 @@
 ---
 title: Welcome to my Celtic blog!
-subtitle the fighting Irish
+subtitle: the fighting Irish
 ---
